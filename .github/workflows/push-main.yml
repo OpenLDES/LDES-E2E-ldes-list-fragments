@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: OpenLDES/ldes-list-fragments
+  IMAGE_NAME: openldes/ldes-list-fragments
 
 jobs:
   build-and-push-image:
